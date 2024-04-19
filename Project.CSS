@@ -1,0 +1,325 @@
+.sec0{
+    overflow: hidden;
+}
+
+.sec
+{
+    background-color:white;
+    min-height: 40px;
+}
+.se
+{
+    background-color:rgb(100, 171, 199);
+    min-height: 500px;
+}
+    @media(max-width:668px)
+{
+    .inboxm{
+        width: 50%;
+        text-align: center;
+    }
+}
+.sect
+{
+    background-color: rgb(229, 239, 240);
+    min-height: 200px;
+}
+.box
+{
+
+    background-color:rgb(92, 174, 204);
+    min-height: 300px;
+}
+.mtm
+{
+   font-size: xx-small;
+}
+
+
+.inboxtt{
+    margin-top: 100px;
+    font-size:30px;
+    color: white;
+    text-align: center;
+}
+.tucm{
+    font-size:10px;
+}
+.visit
+{
+    font-size: 10px;
+}
+.tht
+{
+    text-align: center;
+    margin-top: 14px;
+    font-size: large;
+}
+.inboxeps
+{
+    font-size: small;
+    text-align: center;
+    margin-top: 15px;
+    text-align: center;
+    padding-bottom: 15px;
+}
+u{
+    text-decoration: none;
+}
+.csu
+{
+    font-size: 25px;
+    color: white;
+    margin-top: 15px;
+    text-align: center;
+}
+.saap
+{
+    font-size: 15px;
+    color: white;
+    text-align: center;
+}
+.miyo
+{
+    font-size: 25px;
+    color: white;
+    margin-top: 15px;
+    text-align: center;
+}
+.ctfy
+{
+    font-size:15px;
+    color: white;
+    text-align: center;
+}
+.ptf
+{
+    font-size: 25px;
+    color: white;
+    margin-top: 15px;
+    text-align: center;
+}
+.wys
+{
+    font-size:15px;
+    color: white;
+    text-align: center;
+}
+.inbox1
+{
+    text-align: center;
+}
+.box1
+{
+    font-size: 50px;
+    color: white;
+    border: 1px solid white;
+    padding: 15px;
+    border-radius: 100%;
+    margin-top: 15px;
+    display: inline-block;
+}
+.inbox2
+{
+    text-align: center;
+}
+.box2
+{
+    font-size: 50px;
+    color: white;
+    border: 1px solid white;
+    padding: 15px;
+    border-radius: 100%;
+    margin-top: 15px;
+    display: inline-block;
+}
+.inbox3
+{
+    text-align: center;
+}
+.box3
+{
+   
+    font-size: 50px;
+    color: white;
+    border: 1px solid white;
+    padding: 15px;
+    border-radius: 100%;
+    margin-top: 15px;
+    display: inline-block;
+}
+.tion
+{
+    background-color: black;
+    min-height: 250px;
+    text-align: center;
+} 
+.vua
+{
+   color: white;
+   text-align: center;
+   margin-top: 10px;
+}
+.mts
+{
+    color: white;
+    text-align: center;
+}
+.b1{
+    color: skyblue;
+    text-align: center;
+    padding-bottom: 15px;
+}
+.tio
+{
+    background-color: white;
+    min-height: 550px;
+    padding: 25px;
+}
+.inbox8
+{
+    text-align: center;
+    margin-top: 10px;
+}
+.scio
+{
+    background-color: black;
+    min-height: 350px;
+}
+.inbox9
+{
+    color: white;
+    text-align: center;
+    font-size:40px;
+}
+.the1
+{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.sec5
+{
+    background-color: white;
+    min-height: 200px;
+    text-align: center;
+    margin-top: 15px;
+    font-size: 30px;
+
+}
+.copy
+{
+    font-size: 10px;
+    margin-top: 15px;
+}
+.inbox11
+{
+    min-width:15px;
+    color:skyblue;
+}
+.inboxm1
+{
+    min-height: 200px;
+    /* background-image: url(man2.avif); */
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    margin-top: 15px;
+}
+.inboxm2
+{
+    min-height: 200px;
+    /* background-image: url(wom1.avif); */
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    margin-top: 15px;
+    
+}
+.inboxm3
+{
+    min-height: 200px;
+    /* background-image: url(man3.avif); */
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    margin-top: 15px;
+}
+.inboxm4
+{
+    min-height: 200px;
+    /* background-image: url(wom4.avif); */
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    margin-top: 15px;
+}
+.inboxm5
+{
+    min-height: 200px;
+    /* background-image: url(man11.avif); */
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    margin-top: 15px;
+}
+.inboxm6
+{
+    min-height: 200px;
+    background-image: url(man12.avif);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    margin-top: 15px;
+}
+.inboxm7
+{
+    min-height: 200px;
+    /* background-image: url(man7.avif); */
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+}
+.inboxm8
+{
+    min-height: 200px;
+    /* background-image: url(wom5.avif); */
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+}
+.inboxm9
+{
+    min-height: 200px;
+    /* background-image: url(man1.jpg); */
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+}
+.inboxm10
+{
+    min-height: 200px;
+    /* background-image: url(man10.avif); */
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+}
+.inboxm11
+{
+    min-height: 200px;
+    /* background-image: url(wom3.avif); */
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+}
+.inboxm12
+{
+    min-height: 200px;
+    /* background-image: url(wom2.avif); */
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+}
+.inbox18
+{
+   text-align: center;
+   font-size: 30px;
+}
+.ind
+{
+    font-size: 10px;
+}
+
